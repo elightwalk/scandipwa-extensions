@@ -1,4 +1,4 @@
-# Scandipwa Extensions By Elightwalk
+# [Scandipwa Extensions](https://www.elightwalk.com/scandipwa) By Elightwalk
 
 ![Logo](https://www.elightwalk.com/static/version1712319115/frontend/Elightwalk/store/en_US/images/logo.svg)
 
