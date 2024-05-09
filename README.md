@@ -1,6 +1,6 @@
-# [Scandipwa Extensions](https://www.elightwalk.com/scandipwa) By Elightwalk
-
 ![Logo](https://www.elightwalk.com/static/version1712319115/frontend/Elightwalk/store/en_US/images/logo.svg)
+
+# [Scandipwa Extensions](https://www.elightwalk.com/scandipwa) By Elightwalk
 
 - [ScandiPWA Social Login](https://www.elightwalk.com/scandipwa-social-login)
 - [ScandiPWA Customer Login](https://www.elightwalk.com/scandipwa-customer-login)
